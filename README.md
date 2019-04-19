@@ -1,5 +1,13 @@
 Projeto criado utilizando [Create React App](https://github.com/facebook/create-react-app).
 
+##Instruções:
+
+Utilize o mouse para realizar as operações.
+
+##Implementações Futuras:
+
+Permitir que as operações sejam recebidas pelo teclado também.
+
 ## Available Scripts
 
 In the project directory, you can run:
