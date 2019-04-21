@@ -18,7 +18,7 @@
 
 ## DEMO
 
-![](https://ibb.co/TrJ29FF)
+![](https://i.ibb.co/XV6Lcvv/calculadora.jpg)
 
 https://calc-react-renato-lins.netlify.com/
 
