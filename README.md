@@ -30,21 +30,15 @@ Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar 
 
 Abra o terminal e digite:
 
-```sh
-git clone https://github.com/renatolinsjr/React-Calculadora.git
-```
+### `git clone https://github.com/renatolinsjr/React-Calculadora.git`
 
 Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar:
 
-```sh
-npm install
-```
+### `npm install`
 
 Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar a aplicação:
 
-```sh
-npm start
-```
+### `npm start`
 
 A aplicação rodará no endereço http://localhost:3000/ divirta-se!
 
