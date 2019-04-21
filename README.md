@@ -1,5 +1,5 @@
 # Calculadora React JS
-> Esse projeto foi criado como exercício da biblioteca React e está sendo disponibilizado como Portfólio.
+> Esse projeto foi criado por Renato Lins como exercício da biblioteca React e está sendo disponibilizado como Portfólio.
 
 ## Sumário
 
