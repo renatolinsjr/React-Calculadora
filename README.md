@@ -1,5 +1,5 @@
-# B2W TEST - Jogo Star Wars
-> Esse projeto foi criado para o teste de Desenvolvedor Front End JR e está sendo disponibilizado como Portfólio.
+# Calculadora React JS
+> Esse projeto foi criado como exercício da biblioteca React e está sendo disponibilizado como Portfólio.
 
 ## Sumário
 
